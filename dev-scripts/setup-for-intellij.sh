@@ -1,0 +1,1 @@
+scala-cli setup-ide .
